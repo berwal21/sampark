@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044070999227",
+    "project_id": "sampark-40b46",
+    "storage_bucket": "sampark-40b46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044070999227:android:6608307199c0e453ca359e",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044070999227-u2n2dto3l0pmv3s6lp4cho89o38tae8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "06ba2d2c9164b093c4318f4924977be9a7387102"
+          }
+        },
+        {
+          "client_id": "1044070999227-d3a3u61a6dae507oatkk854rmso1mraj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy33drhYqABavE9LpOexF_0Bs7lexZ4Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044070999227-d3a3u61a6dae507oatkk854rmso1mraj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
